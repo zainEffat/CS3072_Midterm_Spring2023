@@ -1,0 +1,71 @@
+---
+title: "Midterm: Data Science"
+subtitle: "CS3072 Spring 2023"
+author: "Your name here"
+date: "9 April 2023"
+output: pdf_document
+editor_options: 
+chunk_output_type: console
+---
+
+# Packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse)
+``` 
+
+# Data
+
+```{r read-in-data, message = FALSE, warning = FALSE}
+people <- read_csv("data/people.csv")
+pitching <- read_csv("data/pitching.csv")
+salaries <- read_csv("data/salaries.csv")
+teams <- read_csv("data/teams.csv")
+```
+
+# Exercise 1
+
+```{r ex-1}
+
+```
+
+# Exercise 2
+
+```{r ex-2}
+
+```
+
+# Exercise 3
+
+```{r ex-3}
+
+```
+
+# Exercise 4
+
+```{r ex-4}
+
+```
+
+# Exercise 5
+
+```{r ex-5}
+
+```
+
+# Exercise 6
+
+```{r ex-6}
+
+```
+
+# Exercise 7
+
+```{r ex-7}
+
+```
+
+# Exercise 8
+```{r ex-8}
+
+```
